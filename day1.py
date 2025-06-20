@@ -1,0 +1,1 @@
+print(f'Hello World Darshil Parikh this side, would like to say that started 30 days of Python Challenge with Indian Data Club and I hope that I will stay consistent throughout next 30 days and you guys surely encourage me in the journey. Have a great day')
