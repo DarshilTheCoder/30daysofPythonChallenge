@@ -1,0 +1,5 @@
+104.0 degree F value is equals to 40.00 degree C 
+37.5 degree C value is equals to 99.50 degree F 
+100.0 degree F value is equals to 37.78 degree C 
+57.0 degree C value is equals to 134.60 degree F 
+37.5 degree C value is equals to 99.50 degree F 
